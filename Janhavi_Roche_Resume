@@ -1,0 +1,47 @@
+JANHAVI JIJOTIYA
++91 9606879756 • 
+janhavijijotiya@gmail.com
+ • [LinkedIn] • [GitHub] • [Portfolio]
+
+PROFESSIONAL SUMMARY
+Detail-oriented Bioinformatics and Data Science professional with an analytical mindset, skilled in Python, SQL, and Power BI. Experienced in deriving data-driven insights from complex biological, chemical, and healthcare datasets. Possessing foundational knowledge in Pharmacovigilance and Clinical Trials, highly eager to leverage strong data mining and computational capabilities to actively support US healthcare policy assessments, formulary validation, and utilization management workflows.
+
+EDUCATION
+IIT, Mandi | Minor in Computer Science (Jan 2025 - Feb 2026) JSS, AHER, Mysuru | Master’s in Bioinformatics (Oct 2023 - Jul 2025)
+
+SKILLS & COMPETENCIES
+Healthcare & Domain Knowledge: Pharmacovigilance, Clinical Trials, Familiarity with US Healthcare Policies.
+Secondary Data Sources: Proficient in querying and extracting complex datasets utilizing PubMed, NCBI (GenBank), UniProt, PDB, Ensembl, KEGG, and BLAST.
+Programming & Tools: Python, SQL, Power BI, Excel, R, C, Tableau, Git.
+Data Science / ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, RDKit, Logistic/Linear Regression, Decision Trees, Random Forest, CNN, YOLO.
+Core Strengths: Cross-functional Collaboration, Process Optimization, NGS Data Processing Pipelines, Statistical Analysis.
+WORK EXPERIENCE
+Data Science Intern | IB Group, Rajnandgaon (Feb 2026 - Aug 2026) Collaborating in a dynamic environment to develop predictive models and optimize data pipelines.
+
+Built Logistic Regression, Decision Tree, and Random Forest models achieving ~82% test accuracy.
+Conducted comprehensive Exploratory Data Analysis (EDA), feature engineering, and data preprocessing (imputation, encoding, scaling) on large datasets.
+Utilized Pandas, NumPy, scikit-learn, and Matplotlib in an end-to-end ML workflow, translating complex data findings into easily interpretable metrics.
+Data Science Trainee Intern | Flam, Bengaluru (Aug 2024 - Oct 2024) Acted as a crucial technical partner to develop precision research utilities.
+
+Built a web tool for PCR primer and qPCR probe design, conducting rigorous automated quality checks, BLAST specificity validation, and fluorescence compatibility assessments.
+Developed backend architecture using Python (Flask, Biopython, Primer3-py) and scalable frontend interfaces (HTML, CSS, JS) with real-time validation and data export functionality.
+Assessed algorithmic criteria to ensure biological validation targets were met strictly according to molecular research guidelines.
+PROJECTS
+Medicare Formulary & Utilization Analytics Dashboard
+
+Extracted, cleaned, and processed live clinical safety data for 1,000+ diabetes drugs directly from the openFDA API using Python (Pandas) and loaded it into a functional relational SQLite database.
+Designed analytical pipelines to expose severe therapeutic safety warnings by querying SQL databases, assessing direct correlations with restrictive Utilization Management hurdles.
+Built a highly interactive Power BI dashboard tracking Prior Authorization (PA) and Step Therapy (ST) criteria for commercial Pharmacy Benefit Managers based on FDA Boxed Warning profiles.
+Machine Learning Model for Aqueous Solubility Prediction
+
+Extracted and preprocessed secondary data utilizing RDKit from chemical databases (Delaney's solubility dataset).
+Built a Linear Regression model to predict the aqueous solubility (LogS) of chemical compounds using generated molecular descriptors (cLogP, molecular weight).
+Achieved an R² = 0.82 with low MSE using Python (RDKit, scikit-learn, pandas), establishing highly reliable prediction capabilities critical for cheminformatics and precision drug discovery.
+Machine Learning Model for Dynamic Ride Pricing System
+
+Built regression models (Ridge, Lasso, ElasticNet, SVR, Random Forest, XGBoost, CatBoost) resulting in a robust fare prediction model.
+Conducted intensive feature engineering and tuned CatBoost via GridSearchCV to achieve R²=89.3%.
+Evaluated and prioritized key data features (Number of Riders, Expected Ride Duration) optimizing pricing parameters.
+CERTIFICATIONS, COURSES & AWARDS
+Courses: Pharmacovigilance & Clinical Trials Coursework (JSS AHER); Bioinformatics: Algorithms and Applications (NPTEL); IBM Data Science (Coursera).
+Awards: Gold Medal for Biochemical Constellation; Presented a poster in an International Conference.
