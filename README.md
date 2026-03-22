@@ -8,6 +8,8 @@ As pharmaceutical companies launch innovative therapeutics, US commercial insure
 This project is an end-to-end data engineering and analytics pipeline designed to correlate severe FDA Boxed Warnings with potential Prior Authorization (PA) and Step Therapy (ST) formulary restrictions. By automating the extraction of live clinical safety data, this pipeline provides predictive business insights into which drugs are most likely to face harsh payer pushback in the US market.
 
 
+
+
 🛠️ Tech Stack & Skills Demonstrated:
 
 Languages: Python, SQL
@@ -21,6 +23,8 @@ Business Intelligence: Power BI (Interactive Dashboards, Data Modeling)
 Domain Expertise: US Healthcare Policy, Pharmacovigilance, Formulary Validation, PBM Strategy
 
 
+
+
 ⚙️ Methodology (The Pipeline):
 
 Live Data Extraction: Engineered a Python script querying the live US Government openFDA API, extracting deeply nested clinical safety profiles for over 1,000+ diabetes therapeutics.
@@ -32,6 +36,8 @@ Database Staging: Instantiated a local SQLite database (roche_project.db) and st
 Data Analytics: Executed SQL queries to aggregate severe warning prevalence across the therapeutic class, filtering out orphaned chemical records.
 
 Dashboard Visualization: Connected Power BI directly to the SQL output to build an interactive utilization dashboard, allowing stakeholders to filter drugs by safety profiles and instantly visualize market restriction likelihood.
+
+
 
 
 📈 Key Clinical Policy Insights:
